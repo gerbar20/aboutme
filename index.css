@@ -1,14 +1,12 @@
 body{
-	margin-right: auto;
+	max-width:60%;
 	margin-left: auto;
+	margin-right: auto;
 	font-weight: bold;
-	font-family: serif;
-	color: blue;
+	font-family: sans-serif;
+	color: red;
 }
 img{
 	height: 100;
 	width: auto;
-}
-p{
-	color: blue;
 }
