@@ -1,0 +1,14 @@
+body{
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: bold;
+	font-family: serif;
+	color: blue;
+}
+img{
+	height: 100;
+	width: auto;
+}
+p{
+	color: blue;
+}
